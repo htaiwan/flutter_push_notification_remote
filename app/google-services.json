@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "39939329241",
+    "project_id": "flutter-push-notificatio-570d7",
+    "storage_bucket": "flutter-push-notificatio-570d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39939329241:android:e91874bebd19c3392182c8",
+        "android_client_info": {
+          "package_name": "com.htaiwan.flutterPushNotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39939329241-hqp8nkufevjr53t6ovai1okfdmtg772b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhPwAQP0zvz8TF_ajUe55NTm2hmtC2Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39939329241-hqp8nkufevjr53t6ovai1okfdmtg772b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39939329241-orncamcvqo64pc2sgos95tf394ogl7mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.htaiwan.flutterPushNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
